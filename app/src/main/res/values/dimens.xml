@@ -9,7 +9,7 @@
     <dimen name="menu_width">110dp</dimen>
     <dimen name="menu_height">40dp</dimen>
     <dimen name="best_score_title_width">110dp</dimen>
-    <dimen name="best_score_title_height">30dp</dimen>
+    <dimen name="best_score_title_height">40dp</dimen>
     <dimen name="best_score_width">110dp</dimen>
     <dimen name="best_score_height">30dp</dimen>
     <dimen name="ranking_list_width">110dp</dimen>
@@ -24,4 +24,10 @@
     <dimen name="best_score_title_marginEnd">20dp</dimen>
     <dimen name="best_score_marginTop">0dp</dimen>
     <dimen name="best_score_marginEnd">20dp</dimen>
+    <dimen name="menu_marginTop">10dp</dimen>
+    <dimen name="menu_marginEnd">20dp</dimen>
+    <dimen name="ranking_list_marginTop">10dp</dimen>
+    <dimen name="ranking_list_marginEnd">20dp</dimen>
+    <dimen name="remind_best_score_rec_marginTop">10dp</dimen>
+    <dimen name="remind_best_score_rec_marginStart">20dp</dimen>
 </resources>

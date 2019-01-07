@@ -3,4 +3,7 @@
     <string name="app_title">2048</string>
     <string name="score_title">分数</string>
     <string name="best_score_title">历史最高分数</string>
+    <string name="menu">菜单</string>
+    <string name="ranking_list">排行榜</string>
+    <string name="remind_best_score_rec">您的新挑战是获得 %d 方块!</string>
 </resources>
