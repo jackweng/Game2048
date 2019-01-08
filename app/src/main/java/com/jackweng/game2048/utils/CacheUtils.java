@@ -11,6 +11,10 @@ public class CacheUtils {
     private String CONFIG = "game2048";
     private SharedPreferences mSP;
 
+    public String SCORE = "score";
+    public String BESTSCORE = "best_score";
+    public String BESTSCOREREC = "best_score_rec";
+
     public CacheUtils(Context context) {
         mContext = context;
     }
