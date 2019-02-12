@@ -114,10 +114,19 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/remind_best_score_rec_marginTop"
         android:layout_marginStart="@dimen/remind_best_score_rec_marginStart"
-        android:text="@string/remind_best_score_rec"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintTop_toBottomOf="@id/tv_title"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <com.jackweng.game2048.ui.GameView
+        android:layout_width="@dimen/game_view_width"
+        android:layout_height="@dimen/game_view_height"
+        android:background="@color/color_0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_menu">
+    </com.jackweng.game2048.ui.GameView>
 
 </android.support.constraint.ConstraintLayout>
